@@ -5,7 +5,7 @@ sample_posts = [
     },
     {
         "user": "user2",
-        "post": "I hate getting stuck in traffic every morning, it just ruins my mood",
+        "post": "I absolutely hate getting stuck in traffic every morning it completely ruins my mood. Because of this, I might be late for work, which could leave a bad impression on my client and reflect poorly on my team. Situations like this feel really toxic and frustrating.",
     },
     {
         "user": "user3",
@@ -27,7 +27,7 @@ sample_posts = [
     },
     {
         "user": "user4",
-        "post": "That was such a tox*****ic comment, totally unnecessary and rude",
+        "post": "That was such a tox*****ic!!! comment, totally unnecessary and rude",
     },
     {
         "user": "user5",
