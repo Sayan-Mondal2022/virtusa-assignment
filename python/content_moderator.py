@@ -50,7 +50,7 @@ def Moderator(posts: dict) -> bool:
 def save_links(user: str, link: str):
     try:
         with open("links_found.txt", "a") as file:
-            file.write(f"user: {user}, link: {link}\n")
+            file.write(f"user: {user}, link: {link.strip(",.!?")}\n")
     except Exception as e:
         print("Error while saving link")
 
